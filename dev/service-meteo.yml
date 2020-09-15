@@ -8,4 +8,6 @@ config:
       - "De la pluie en fin de journée."
       - "Fort orage ce soir et cette nuit."
       - "Totoro !!!"
+      - "{cipher}1177ed015d553b42cafc5ac1dd5e290ef9a269ed61640beda1b584f504f5f37b"
+      
      
